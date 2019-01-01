@@ -1,0 +1,23 @@
+_repo: La-Reunion-a-French-Settlement-in-Texas_58590
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hammond, Margaret Ellen Forsyth
+    gutenberg_agent_id: '50043'
+    url: http://www.gutenberg.org/2009/agents/50043
+  - agent_name: Hammond, William J.
+    gutenberg_agent_id: '50042'
+    url: http://www.gutenberg.org/2009/agents/50042
+description: ''
+gutenberg_issued: '2019-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58590'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Reunion, a French Settlement in Texas
+url: http://www.gutenberg.org/ebooks/58590
